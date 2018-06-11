@@ -2,9 +2,15 @@
 **Concordia_Game**
 
 ### Screenshoots
-![screenshoot 1]("screenshoot/1.png" "Play button")
-![screenshoot 2]("screenshoot/2.png" "demo")
-![screenshoot 3]("screenshoot/3.png" "demo")
+![screenshoot 1](screenshoot/1.png "Play button")
+Play button
+
+![screenshoot 2](screenshoot/2.png "demo")
+Demo 1
+
+![screenshoot 3](screenshoot/3.png "demo")
+Demo 2
+
 
 ### Requisites
 
